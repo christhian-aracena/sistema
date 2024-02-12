@@ -264,6 +264,7 @@ small{
     transition: 0.3s;
     font-family: Mulish;
     margin-bottom: 2rem;
+    margin-top: 1rem;
 }
 .container-login p{
     font-family: Mulish;
